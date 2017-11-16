@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^(.*)$ public/php-imap.php [L]
